@@ -1,0 +1,11 @@
+de_peak.c:56:5:de_peak_set_reg_base	0	static
+de_peak.c:64:5:de_peak_update_regs	16	static
+de_peak.c:82:5:de_peak_init	24	static
+de_peak.c:113:5:de_peak_double_init	0	static
+de_peak.c:126:5:de_peak_exit	8	static
+de_peak.c:132:5:de_peak_double_exit	0	static
+de_peak.c:148:5:de_peak_enable	8	static
+de_peak.c:168:5:de_peak_set_size	0	static
+de_peak.c:189:5:de_peak_set_window	32	static
+de_peak.c:214:5:de_peak_init_para	0	static
+de_peak.c:238:5:de_peak_info2para	32	static

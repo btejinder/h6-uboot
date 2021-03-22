@@ -1,0 +1,8 @@
+de_peak2d.c:51:5:de_peak2d_update_regs	8	static
+de_peak2d.c:63:5:de_peak2d_init	24	static
+de_peak2d.c:89:5:de_peak2d_double_init	0	static
+de_peak2d.c:102:5:de_peak2d_exit	8	static
+de_peak2d.c:109:5:de_peak2d_double_exit	0	static
+de_peak2d.c:114:5:de_peak2d_init_para	0	static
+de_peak2d.c:126:5:de_peak2d_info2para	24	static
+de_peak2d.c:163:5:de_peak2d_enable	8	static

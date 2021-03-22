@@ -1,0 +1,17 @@
+sunxi_timer.c:158:13:timerX_callback_default	0	static
+sunxi_timer.c:179:6:timer1_func	8	static
+sunxi_timer.c:163:6:timer0_func	8	static
+sunxi_timer.c:44:5:timer_init	0	static
+sunxi_timer.c:53:6:timer_exit	0	static
+sunxi_timer.c:68:7:get_tbclk	0	static
+sunxi_timer.c:87:6:__usdelay	20	static
+sunxi_timer.c:99:6:__msdelay	0	static
+sunxi_timer.c:107:5:runtime_tick	24	static
+sunxi_timer.c:114:7:get_timer_masked	0	static
+sunxi_timer.c:125:7:get_timer	8	static
+sunxi_timer.c:135:20:get_ticks	8	static
+sunxi_timer.c:196:6:init_timer	0	static
+sunxi_timer.c:201:6:add_timer	24	static
+sunxi_timer.c:279:6:del_timer	16	static
+sunxi_timer.c:303:6:stick_printf	16	static
+sunxi_timer.c:315:6:tick0_printf	32	static

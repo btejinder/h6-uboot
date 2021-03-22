@@ -1,0 +1,11 @@
+de_enhance.c:142:12:de_enhance_apply_core	104	static
+de_enhance.c:219:5:de_enhance_layer_apply	56	static
+de_enhance.c:403:5:de_enhance_apply	24	static
+de_enhance.c:479:5:de_enhance_sync	0	static
+de_enhance.c:485:5:de_enhance_tasklet	24	static
+de_enhance.c:510:5:de_enhance_update_regs	24	static
+de_enhance.c:530:5:de_enhance_init	56	static
+de_enhance.c:614:5:de_enhance_exit	32	static
+de_enhance.c:640:5:de_enhance_double_init	56	static
+de_enhance.c:721:5:de_enhance_double_exit	32	static
+de_enhance.c:747:6:de_set_bits	8	static

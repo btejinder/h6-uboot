@@ -1,0 +1,11 @@
+de_bls.c:52:5:de_bls_set_reg_base	0	static
+de_bls.c:60:5:de_bls_update_regs	16	static
+de_bls.c:78:5:de_bls_init	24	static
+de_bls.c:109:5:de_bls_double_init	0	static
+de_bls.c:122:5:de_bls_exit	8	static
+de_bls.c:128:5:de_bls_double_exit	0	static
+de_bls.c:144:5:de_bls_enable	8	static
+de_bls.c:164:5:de_bls_set_size	0	static
+de_bls.c:185:5:de_bls_set_window	32	static
+de_bls.c:211:5:de_bls_init_para	24	static
+de_bls.c:256:5:de_bls_info2para	16	static

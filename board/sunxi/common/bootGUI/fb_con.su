@@ -1,0 +1,7 @@
+fb_con.c:17:12:set_interest_region	8	static
+fb_con.c:319:5:fb_init	56	static
+fb_con.c:341:5:fb_quit	8	static
+fb_con.c:356:16:fb_lock	8	static
+fb_con.c:373:5:fb_unlock	8	static
+fb_con.c:392:5:fb_set_alpha_mode	8	static
+fb_con.c:410:5:fb_save_para	192	static

@@ -1,0 +1,8 @@
+key_deal.c:73:5:sunxi_efuse_write	8	static
+key_deal.c:80:5:sunxi_efuse_read	8	static
+key_deal.c:92:5:hdcp_key_parse	24	static
+key_deal.c:134:6:hdcp_key_convert	0	static
+key_deal.c:154:5:verify_hdcp_key_sha	352	static
+key_deal.c:200:5:sunxi_deal_hdcp_key_hash	88	static
+key_deal.c:253:5:sunxi_deal_rssk_key	192	dynamic,bounded
+key_deal.c:306:5:sunxi_deal_hdcp_key	4112	static

@@ -1,0 +1,12 @@
+de_wb.c:51:5:wb_ebios_set_reg_base	0	static
+de_wb.c:67:11:wb_ebios_get_reg_base	0	static
+de_wb.c:84:5:wb_ebios_init	0	static
+de_wb.c:101:5:wb_ebios_writeback_enable	0	static
+de_wb.c:122:5:wb_ebios_apply	8	static
+de_wb.c:156:5:wb_ebios_set_para	96	static
+de_wb.c:137:5:wb_ebios_update_regs	8	static
+de_wb.c:387:5:wb_ebios_get_status	0	static
+de_wb.c:405:5:wb_ebios_enableint	0	static
+de_wb.c:411:5:wb_ebios_disableint	0	static
+de_wb.c:417:5:wb_ebios_queryint	0	static
+de_wb.c:422:5:wb_ebios_clearint	0	static

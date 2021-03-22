@@ -1,0 +1,1 @@
+cmd_arch/arm/cpu/armv7/sun50iw6p1/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o arch/arm/cpu/armv7/sun50iw6p1/built-in.o arch/arm/cpu/armv7/sun50iw6p1/clock.o arch/arm/cpu/armv7/sun50iw6p1/board.o arch/arm/cpu/armv7/sun50iw6p1/usb_clock.o 

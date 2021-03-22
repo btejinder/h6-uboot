@@ -1,0 +1,12 @@
+de_fce.c:93:5:de_fce_update_regs	16	static
+de_fce.c:119:5:de_fce_init	40	static
+de_fce.c:209:5:de_fce_double_init	32	static
+de_fce.c:276:5:de_fce_exit	16	static
+de_fce.c:289:5:de_fce_double_exit	8	static
+de_fce.c:313:5:de_fce_set_size	16	static
+de_fce.c:337:5:de_fce_set_window	32	static
+de_fce.c:479:5:de_fce_info2para	56	static
+de_fce.c:550:5:de_fce_enable	8	static
+de_fce.c:558:5:de_fce_init_para	32	static
+de_fce.c:1112:5:de_hist_tasklet	32	static
+de_fce.c:1131:5:de_ce_tasklet	112	static

@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o net/built-in.o net/arp.o net/bootp.o net/eth.o net/net.o net/ping.o net/tftp.o 

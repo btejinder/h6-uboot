@@ -1,0 +1,2 @@
+grallocator.c:8:5:graphic_buffer_alloc	16	static
+grallocator.c:48:5:graphic_buffer_free	8	static

@@ -1,0 +1,3 @@
+sunxi_ephy.c:37:12:aw1683_wr_reg	40	static
+sunxi_ephy.c:67:12:aw1683_rd_reg	40	static
+sunxi_ephy.c:187:5:ephy_init	24	static

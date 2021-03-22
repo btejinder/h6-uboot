@@ -1,0 +1,13 @@
+cmd_sunxi_bmp.c:57:12:do_sunxi_bmp_info	88	static
+cmd_sunxi_bmp.c:648:14:1	24	static
+cmd_sunxi_bmp.c:608:12:2	168	static
+cmd_sunxi_bmp.c:681:12:sunxi_advert_verify_head	8	static
+cmd_sunxi_bmp.c:190:5:show_bmp_on_fb	72	static
+cmd_sunxi_bmp.c:350:5:sunxi_bmp_dipslay_screen	16	static
+cmd_sunxi_bmp.c:507:5:sunxi_bmp_decode	56	static
+cmd_sunxi_bmp.c:107:12:do_sunxi_bmp_display	104	static
+cmd_sunxi_bmp.c:706:5:sunxi_advert_logo_load	520	static
+cmd_sunxi_bmp.c:428:5:sunxi_bmp_load	104	static
+cmd_sunxi_bmp.c:724:5:sunxi_advert_display	520	static
+cmd_sunxi_bmp.c:304:5:sunxi_bmp_display	104	static
+cmd_sunxi_bmp.c:761:5:do_sunxi_logo	0	static

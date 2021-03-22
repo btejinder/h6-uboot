@@ -1,0 +1,7 @@
+video_misc_hal.c:14:5:get_disp_fdt_node	8	static
+video_misc_hal.c:26:6:disp_getprop_by_name	16	static
+video_misc_hal.c:35:5:hal_save_int_to_kernel	32	static
+video_misc_hal.c:51:5:hal_save_string_to_kernel	32	static
+video_misc_hal.c:67:5:hal_get_disp_device_config	32	static
+video_misc_hal.c:97:5:hal_save_disp_device_config_to_kernel	104	static
+video_misc_hal.c:144:5:hal_fat_fsload	16	static

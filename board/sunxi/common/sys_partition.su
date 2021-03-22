@@ -1,0 +1,12 @@
+sys_partition.c:373:5:sunxi_partition_get_total_num	0	static
+sys_partition.c:384:5:sunxi_partition_get_name	8	static
+sys_partition.c:400:6:sunxi_partition_get_offset	0	static
+sys_partition.c:412:6:sunxi_partition_get_size	0	static
+sys_partition.c:424:6:sunxi_partition_get_offset_byname	24	static
+sys_partition.c:444:5:sunxi_partition_get_partno_byname	16	static
+sys_partition.c:465:6:sunxi_partition_get_size_byname	24	static
+sys_partition.c:489:5:sunxi_partition_get_info_byname	32	static
+sys_partition.c:512:7:sunxi_partition_fetch_mbr	0	static
+sys_partition.c:522:5:sunxi_partition_refresh	8	static
+sys_partition.c:538:5:sunxi_partition_get_type	0	static
+sys_partition.c:544:5:sunxi_partition_init	16	static

@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /opt/h6/h6_1.4.2/lichee/brandy/gcc-linaro/bin/../lib/gcc/arm-linux-gnueabi/4.6.3 -lgcc

@@ -1,0 +1,12 @@
+sunxi_efuse.c:398:21:_get_uint_val	16	static
+sunxi_efuse.c:197:6:sid_read_key	0	static
+sunxi_efuse.c:310:12:__sw_acl_ck	8	static
+sunxi_efuse.c:352:12:1	8	static
+sunxi_efuse.c:208:6:sid_program_key	8	static
+sunxi_efuse.c:231:12:uni_burn_key	24	static
+sunxi_efuse.c:255:6:sid_set_security_mode	0	static
+sunxi_efuse.c:267:5:sid_probe_security_mode	8	static
+sunxi_efuse.c:277:5:sid_get_security_status	0	static
+sunxi_efuse.c:422:5:sunxi_efuse_write	24	static
+sunxi_efuse.c:528:5:sunxi_efuse_read	56	static
+sunxi_efuse.c:599:6:sunxi_efuse_dump	8	static

@@ -1,0 +1,7 @@
+board.c:221:12:1	384	static
+board.c:41:5:power_source_init	24	static
+board.c:111:5:sunxi_probe_securemode	16	static
+board.c:178:5:sunxi_set_secure_mode	8	static
+board.c:211:5:sunxi_get_securemode	0	static
+board.c:216:5:sunxi_probe_secure_monitor	0	static
+board.c:333:5:verify_init	208	static

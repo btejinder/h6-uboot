@@ -1,0 +1,16 @@
+de_dns.c:47:5:de_dns_set_reg_base	0	static
+de_dns.c:57:5:de_dns_update_regs	16	static
+de_dns.c:75:5:de_dns_init	40	static
+de_dns.c:112:5:de_dns_double_init	0	static
+de_dns.c:123:5:de_dns_exit	8	static
+de_dns.c:130:5:de_dns_double_exit	0	static
+de_dns.c:146:5:de_dns_enable	8	static
+de_dns.c:165:5:de_dns_set_size	12	static
+de_dns.c:187:5:de_dns_set_window	12	static
+de_dns.c:212:5:de_dns_init_para	0	static
+de_dns.c:230:5:de_dns_read_iqa_regs	8	static
+de_dns.c:255:5:de_dns_info2para	12	static
+de_dns.c:285:5:de_dns_para_apply	8	static
+de_dns.c:311:5:cal_blks	16	static
+de_dns.c:330:6:dns_para_adapt	40	static
+de_dns.c:464:5:de_dns_tasklet	16	static

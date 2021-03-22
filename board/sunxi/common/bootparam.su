@@ -1,0 +1,8 @@
+bootparam.c:13:12:get_boot_display_params	16	static
+bootparam.c:36:5:bootparam_get_display_region_by_name	160	static
+bootparam.c:57:5:get_disp_para_mode	16	static
+bootparam.c:70:5:bootparam_get_hdmi_video_format	152	static
+bootparam.c:79:5:bootparam_get_hdmi_color_depth	152	static
+bootparam.c:88:5:bootparam_get_hdmi_color_space	152	static
+bootparam.c:97:5:bootparam_get_hdmi_eotf	152	static
+bootparam.c:106:5:bootparam_get_disp_device_config	160	static

@@ -1,0 +1,9 @@
+de_ccsc.c:387:5:de_ccsc_update_regs	32	static
+de_ccsc.c:432:5:de_ccsc_init	80	static
+de_ccsc.c:559:5:de_ccsc_double_init	48	static
+de_ccsc.c:616:5:de_ccsc_exit	56	static
+de_ccsc.c:645:5:de_ccsc_double_exit	0	static
+de_ccsc.c:677:5:de_csc_coeff_calc	40	static
+de_ccsc.c:808:5:de_cdc_coeff_set	216	static
+de_ccsc.c:286:5:de_ccsc_apply	312	static
+de_ccsc.c:990:5:de_cdc_enable	32	static

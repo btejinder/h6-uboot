@@ -1,0 +1,7 @@
+tv_ac200_lowlevel.c:11:5:aw1683_wr_reg	40	static
+tv_ac200_lowlevel.c:46:5:aw1683_rd_reg	40	static
+tv_ac200_lowlevel.c:81:5:aw1683_tve_init	32	static
+tv_ac200_lowlevel.c:135:5:aw1683_tve_plug_status	16	static
+tv_ac200_lowlevel.c:142:5:aw1683_tve_set_mode	24	static
+tv_ac200_lowlevel.c:287:5:aw1683_tve_open	24	static
+tv_ac200_lowlevel.c:303:5:aw1683_tve_close	8	static

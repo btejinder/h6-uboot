@@ -1,0 +1,4 @@
+bootm.c:524:13:update_bootargs	1160	static
+bootm.c:240:5:bootm_find_ramdisk_fdt	24	static
+bootm.c:432:7:bootm_disable_interrupts	8	static
+bootm.c:572:5:do_bootm_states	112	static

@@ -1,0 +1,5 @@
+cmd_boota.c:81:6:get_arch_type	0	static
+cmd_boota.c:117:5:do_boota_linux	24	static
+cmd_boota.c:153:8:memcpy2	16	static
+cmd_boota.c:169:6:update_bootargs	1160	static
+cmd_boota.c:242:5:do_boota	56	static

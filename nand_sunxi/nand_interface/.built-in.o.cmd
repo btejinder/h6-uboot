@@ -1,0 +1,1 @@
+cmd_nand_sunxi/nand_interface/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o nand_sunxi/nand_interface/built-in.o nand_sunxi/nand_interface/nand_for_uboot.o nand_sunxi/nand_interface/nand_fspart.o 

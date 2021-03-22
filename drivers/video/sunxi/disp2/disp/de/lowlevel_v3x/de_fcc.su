@@ -1,0 +1,13 @@
+de_fcc.c:43:5:de_fcc_set_reg_base	0	static
+de_fcc.c:50:5:de_fcc_set_lut_reg_base	0	static
+de_fcc.c:57:5:de_fcc_init	40	static
+de_fcc.c:98:5:de_fcc_exit	8	static
+de_fcc.c:106:5:de_fcc_double_init	0	static
+de_fcc.c:119:5:de_fcc_double_exit	0	static
+de_fcc.c:124:5:de_fcc_update_regs	24	static
+de_fcc.c:163:5:de_fcc_enable	0	static
+de_fcc.c:188:5:de_fcc_set_size	0	static
+de_fcc.c:215:5:de_fcc_set_window	16	static
+de_fcc.c:236:5:de_fcc_set_lut	12	static
+de_fcc.c:260:5:de_fcc_init_para	24	static
+de_fcc.c:287:5:de_fcc_info2para	120	static

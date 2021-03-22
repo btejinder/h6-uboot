@@ -1,0 +1,16 @@
+tv_ac200.c:289:12:tv_set_mode	0	static
+tv_ac200.c:303:12:tv_get_mode_support	0	static
+tv_ac200.c:311:12:tv_get_video_timing_info	0	static
+tv_ac200.c:332:12:tv_get_input_csc	0	static
+tv_ac200.c:337:12:tv_get_interface_para	40	static
+tv_ac200.c:296:12:tv_get_hpd_status	0	static
+tv_ac200.c:237:12:tv_clk_enable	24	static
+tv_ac200.c:280:12:tv_close	8	static
+tv_ac200.c:264:12:tv_open	8	static
+tv_ac200.c:62:6:tv_report_hpd_work	0	static
+tv_ac200.c:67:5:tv_detect_thread	8	static
+tv_ac200.c:73:5:tv_detect_enable	8	static
+tv_ac200.c:79:5:tv_detect_disable	8	static
+tv_ac200.c:360:5:tv_suspend	8	static
+tv_ac200.c:374:5:tv_resume	8	static
+tv_ac200.c:386:5:tv_ac200_init	192	static

@@ -1,0 +1,8 @@
+secondary_main.c:92:13:set_bmp_decode_flag	0	static
+secondary_main.c:97:12:get_bmp_decode_flag	0	static
+secondary_main.c:276:5:sunxi_bmp_decode_from_compress	16	static
+secondary_main.c:427:5:sunxi_secondary_cpu_poweroff	8	static
+secondary_main.c:438:5:sunxi_set_cpu_off	8	static
+secondary_main.c:376:5:sunxi_third_cpu_task	16	static
+secondary_main.c:285:5:sunxi_secendary_cpu_task	48	static
+secondary_main.c:443:5:sunxi_set_cpu_on	0	static

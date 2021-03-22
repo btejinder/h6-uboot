@@ -1,0 +1,12 @@
+de_lti.c:56:5:de_lti_set_reg_base	0	static
+de_lti.c:65:5:de_lti_update_regs	16	static
+de_lti.c:82:5:de_lti_init	48	static
+de_lti.c:120:5:de_lti_double_init	0	static
+de_lti.c:133:5:de_lti_exit	8	static
+de_lti.c:140:5:de_lti_double_exit	0	static
+de_lti.c:156:5:de_lti_enable	24	static
+de_lti.c:177:5:de_lti_set_size	0	static
+de_lti.c:200:5:de_lti_set_window	40	static
+de_lti.c:234:5:de_lti_init_para	12	static
+de_lti.c:275:5:sel_coef	8	static
+de_lti.c:324:5:de_lti_info2para	64	static

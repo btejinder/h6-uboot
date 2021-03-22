@@ -1,0 +1,12 @@
+de_gsu.c:30:13:0	0	static
+de_gsu.c:40:5:de_gsu_init	56	static
+de_gsu.c:94:5:de_gsu_double_init	16	static
+de_gsu.c:117:5:de_gsu_exit	16	static
+de_gsu.c:131:5:de_gsu_double_exit	0	static
+de_gsu.c:136:5:de_gsu_update_regs	32	static
+de_gsu.c:186:5:de_gsu_set_reg_base	0	static
+de_gsu.c:205:5:de_gsu_enable	16	static
+de_gsu.c:279:5:de_gsu_set_para	32	static
+de_gsu.c:345:5:de_gsu_calc_scaler_para	72	static
+de_gsu.c:401:5:de_calc_ovl_coord	0	static
+de_gsu.c:427:5:de_gsu_sel_ovl_scaler_para	40	static

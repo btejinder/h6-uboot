@@ -1,0 +1,4 @@
+sprite_main.c:42:6:sprite_card_finish_tip	16	static
+sprite_main.c:65:6:__dump_dlmap	48	static
+sprite_main.c:94:6:__dump_mbr	48	static
+sprite_main.c:208:5:sunxi_card_sprite_main	1064984	static

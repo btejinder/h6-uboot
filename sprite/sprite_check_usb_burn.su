@@ -1,0 +1,4 @@
+sprite_check_usb_burn.c:26:7:set_usb_auto_burn_boot_init_flag	0	static
+sprite_check_usb_burn.c:32:6:sunxi_handshake_main	8	static
+sprite_check_usb_burn.c:58:6:try_handshake_usb	24	static
+sprite_check_usb_burn.c:124:6:sunxi_auto_force_burn_by_usb	16	static

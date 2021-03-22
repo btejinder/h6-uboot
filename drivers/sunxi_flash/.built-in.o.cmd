@@ -1,0 +1,1 @@
+cmd_drivers/sunxi_flash/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/sunxi_flash/built-in.o drivers/sunxi_flash/sunxi_flash.o drivers/sunxi_flash/sdmmc.o drivers/sunxi_flash/nand.o 

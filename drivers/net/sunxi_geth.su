@@ -1,0 +1,10 @@
+sunxi_geth.c:241:12:geth_phy_read	0	static
+sunxi_geth.c:256:13:geth_phy_write	0	static
+sunxi_geth.c:742:13:geth_halt	0	static
+sunxi_geth.c:757:5:geth_write_hwaddr	0	static
+sunxi_geth.c:361:12:geth_recv	16	static
+sunxi_geth.c:290:12:geth_xmit	32	static
+sunxi_geth.c:682:12:geth_init	32	static
+sunxi_geth.c:281:5:geth_miiphy_write	16	static
+sunxi_geth.c:272:5:geth_miiphy_read	16	static
+sunxi_geth.c:779:5:geth_initialize	40	static

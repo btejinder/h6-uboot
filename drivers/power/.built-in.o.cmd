@@ -1,0 +1,1 @@
+cmd_drivers/power/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/power/built-in.o drivers/power/sunxi/axp_null.o drivers/power/sunxi/axp_supply_null.o drivers/power/sunxi/axp.o drivers/power/sunxi/axp806.o drivers/power/sunxi/axp806_supply.o 

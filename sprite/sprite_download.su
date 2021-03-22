@@ -1,0 +1,12 @@
+sprite_download.c:47:28:nand_force_download_uboot	0	static
+sprite_download.c:52:29:nand_download_uboot	0	static
+sprite_download.c:57:29:nand_write_boot0	0	static
+sprite_download.c:61:28:nand_uboot_get_flash_info	0	static
+sprite_download.c:65:27:nand_download_boot0	0	static
+sprite_download.c:69:27:spinor_download_uboot	0	static
+sprite_download.c:73:27:spinor_download_boot0	0	static
+sprite_download.c:94:6:dump_dram_para	16	static
+sprite_download.c:121:5:sunxi_sprite_download_mbr	24	static
+sprite_download.c:214:5:sunxi_sprite_download_uboot	24	static
+sprite_download.c:311:5:sunxi_sprite_download_boot0	24	static
+sprite_download.c:531:5:sunxi_download_boot0_atfter_ota	32	static

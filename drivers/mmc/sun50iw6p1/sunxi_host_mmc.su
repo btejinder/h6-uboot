@@ -1,0 +1,4 @@
+sunxi_host_mmc.c:1029:5:mmc_clk_io_onoff	8	static
+sunxi_host_mmc.c:1082:5:get_mmc_gpio_bias	0	static
+sunxi_host_mmc.c:1089:5:sunxi_mmc_init	200	static
+sunxi_host_mmc.c:1203:5:sunxi_mmc_exit	8	static

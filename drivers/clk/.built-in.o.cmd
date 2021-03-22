@@ -1,0 +1,1 @@
+cmd_drivers/clk/built-in.o :=  /opt/h6/h6_1.4.2/lichee/brandy/u-boot-2014.07/../gcc-linaro/bin/arm-linux-gnueabi-ld.bfd     -r -o drivers/clk/built-in.o drivers/clk/clk_factor.o drivers/clk/clk_periph.o drivers/clk/clk.o drivers/clk/clk_fixed_rate.o drivers/clk/clk-sun50iw6.o 
